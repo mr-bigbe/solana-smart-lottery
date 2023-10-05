@@ -1,0 +1,11 @@
+C:\solana-smart-lottery\solana_smart_lottery\target\debug\deps\borsh-7fb7ebb6d7fec904.rmeta: C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src/lib.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\mod.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\hint.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema_helpers.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\mod.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\helpers.rs
+
+C:\solana-smart-lottery\solana_smart_lottery\target\debug\deps\borsh-7fb7ebb6d7fec904.d: C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src/lib.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\mod.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\hint.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema_helpers.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\mod.rs C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\helpers.rs
+
+C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src/lib.rs:
+C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\mod.rs:
+C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\hint.rs:
+C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema.rs:
+C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema_helpers.rs:
+C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\mod.rs:
+C:\Users\wigga\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\helpers.rs:
