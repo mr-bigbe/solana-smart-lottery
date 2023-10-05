@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 sha2 = "0.10.8"
 solana-program = "1.17.0"
+switchboard_xyz = { path = "C:\solana-smart-lottery\solana_smart_lottery\sdk\solana-sdk" }

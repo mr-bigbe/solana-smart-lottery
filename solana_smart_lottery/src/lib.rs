@@ -3,12 +3,15 @@ use solana_program::{
     program_error::ProgramError,
     program_pack::{IsInitialized, Pack, Sealed},
     pubkey::Pubkey,
+    msg,
 };
 use std::collections::{HashMap, HashSet};
 use sha2::{Sha256, Digest};
 use std::convert::TryInto;
+use switchboard_xyz::solana_sdk::vrf;
 
 // Custom Error Types
+#[derive(Debug)]
 pub enum LotteryError {
     RateLimited = 0,
     Unauthorized,
@@ -287,8 +290,13 @@ impl Lottery {
     }
     // Logging
     pub fn log(&self, log_level: LogLevel, message: &str) {
-        // sol_log is the Solana logging function. Replace it with your logging function if different.
-        sol_log(&format!("{:?}: {}", log_level, message));
+        // msg! is the Solana logging macro. Replace it with your logging function if different.
+        let level_str = match log_level {
+            LogLevel::INFO => "INFO",
+            LogLevel::WARNING => "WARNING",
+            LogLevel::ERROR => "ERROR",
+        };
+        msg!("[{}]: {}", level_str, message);
     }
     // Log State Change
     pub fn log_state_change(&self, state_variable: &str, new_value: &str, changed_by: Pubkey) {
